@@ -3,13 +3,14 @@ package calculator.commands;
 import calculator.Context;
 import calculator.Factory;
 import org.junit.Assert;
+import org.junit.Test;
 
 import java.io.IOException;
 import java.util.ArrayList;
 import java.util.List;
 
 public class AbsTest {
-    @org.junit.Test
+    @Test
     public void execute() {
 
         Context data = new Context();
