@@ -1,0 +1,56 @@
+{
+  "Product": [
+    {
+      "name": "Book",
+      "produced": 5,
+      "storage_A": 322,
+      "storage_B": 123,
+      "to_create": 89,
+      "to_consume": 444,
+      "to_load": 5,
+      "to_unload": 7,
+      "weight": 11
+    },
+    {
+      "name": "Food",
+      "produced": 1,
+      "storage_A": 333,
+      "storage_B": 400,
+      "to_create": 30,
+      "to_consume": 20,
+      "to_load": 2,
+      "to_unload": 3,
+      "weight": 2
+    }
+  ],
+  "Station": {
+    "distance": 500,
+    "capacity_A": 3,
+    "capacity_B": 3,
+    "ways_A": 2,
+    "ways_B": 2
+  },
+  "Train": [
+    {
+      "name": "Tomas",
+      "capacity": 1000,
+      "speed": 111,
+      "to_create": 333,
+      "max_distance": 1000
+    },
+    {
+      "name": "Doom",
+      "capacity": 6666,
+      "speed": 66,
+      "to_create": 666,
+      "max_distance": 6666
+    },
+    {
+      "name": "What",
+      "capacity": 1,
+      "speed": 499,
+      "to_create": 1,
+      "max_distance": 501
+    }
+  ]
+}

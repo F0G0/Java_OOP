@@ -1,0 +1,897 @@
+2022-05-13 16:58:44.701 Train Doom is ready.
+2022-05-13 16:58:44.701 Train Tomas is ready.
+2022-05-13 16:58:44.701 Storage: added Food3. Weight:1
+2022-05-13 16:58:44.701 Train What is ready.
+2022-05-13 16:58:44.701 Storage: added Book1. Weight:1
+2022-05-13 16:58:44.703 Storage: added Book1. Weight:2
+2022-05-13 16:58:44.703 Storage: added Book1. Weight:3
+2022-05-13 16:58:44.703 Storage: added Book1. Weight:4
+2022-05-13 16:58:44.703 Storage: added Book1. Weight:5
+2022-05-13 16:58:44.707 Train Doom: left to ride = 6166
+2022-05-13 16:58:44.707 Train What: left to ride = 1
+2022-05-13 16:58:44.707 Train Tomas: left to ride = 500
+2022-05-13 16:58:44.707 Train Doom: storage of Book is going to be taken.
+2022-05-13 16:58:44.708 Train Doom: station A docked
+2022-05-13 16:58:44.708 Factory 3: Produced Book; id: Book31
+2022-05-13 16:58:44.708 Storage: taken Book1. Amount: 4
+2022-05-13 16:58:44.708 Factory 1: Produced Book; id: Book11
+2022-05-13 16:58:44.707 Train What: storage of Book is going to be taken.
+2022-05-13 16:58:44.708 Factory 0: Produced Food; id: Food01
+2022-05-13 16:58:44.707 Train Tomas: storage of Food is going to be taken.
+2022-05-13 16:58:44.708 Train What: station A docked
+2022-05-13 16:58:44.708 Train Tomas: station A docked
+2022-05-13 16:58:44.708 Storage: taken Book1. Amount: 3
+2022-05-13 16:58:44.708 Storage: taken Food3. Amount: 0
+2022-05-13 16:58:44.708 Factory 4: Produced Book; id: Book41
+2022-05-13 16:58:44.708 Factory 2: Produced Book; id: Book21
+2022-05-13 16:58:44.709 Factory 0: Produced Book; id: Book01
+2022-05-13 16:58:44.714 Storage: taken Book1. Amount: 2
+2022-05-13 16:58:44.714 Train What: station A undocked
+2022-05-13 16:58:44.714 Railway: road from A to B is taken. Current roads: 1
+2022-05-13 16:58:44.714 Train What: leaving
+2022-05-13 16:58:44.720 Storage: taken Book1. Amount: 1
+2022-05-13 16:58:44.726 Storage: taken Book1. Amount: 0
+2022-05-13 16:58:44.739 Storage: added Food3. Weight:1
+2022-05-13 16:58:44.739 Factory 0: Produced Food; id: Food02
+2022-05-13 16:58:44.739 Storage: taken Food3. Amount: 0
+2022-05-13 16:58:44.770 Storage: added Food3. Weight:1
+2022-05-13 16:58:44.770 Factory 0: Produced Food; id: Food03
+2022-05-13 16:58:44.770 Storage: taken Food3. Amount: 0
+2022-05-13 16:58:44.798 Storage: added Book1. Weight:1
+2022-05-13 16:58:44.798 Storage: taken Book1. Amount: 0
+2022-05-13 16:58:44.798 Factory 3: Produced Book; id: Book32
+2022-05-13 16:58:44.798 Storage: added Book1. Weight:1
+2022-05-13 16:58:44.798 Factory 1: Produced Book; id: Book12
+2022-05-13 16:58:44.799 Storage: added Book1. Weight:2
+2022-05-13 16:58:44.799 Factory 0: Produced Book; id: Book02
+2022-05-13 16:58:44.800 Storage: added Book1. Weight:3
+2022-05-13 16:58:44.800 Factory 2: Produced Book; id: Book22
+2022-05-13 16:58:44.800 Storage: added Book1. Weight:4
+2022-05-13 16:58:44.800 Factory 4: Produced Book; id: Book42
+2022-05-13 16:58:44.801 Storage: added Food3. Weight:1
+2022-05-13 16:58:44.801 Factory 0: Produced Food; id: Food04
+2022-05-13 16:58:44.801 Storage: taken Food3. Amount: 0
+2022-05-13 16:58:44.804 Storage: taken Book1. Amount: 3
+2022-05-13 16:58:44.810 Storage: taken Book1. Amount: 2
+2022-05-13 16:58:44.816 Storage: taken Book1. Amount: 1
+2022-05-13 16:58:44.822 Storage: taken Book1. Amount: 0
+2022-05-13 16:58:44.832 Storage: added Food3. Weight:1
+2022-05-13 16:58:44.832 Factory 0: Produced Food; id: Food05
+2022-05-13 16:58:44.832 Storage: taken Food3. Amount: 0
+2022-05-13 16:58:44.862 Storage: added Food3. Weight:1
+2022-05-13 16:58:44.862 Storage: taken Food3. Amount: 0
+2022-05-13 16:58:44.862 Factory 0: Produced Food; id: Food06
+2022-05-13 16:58:44.887 Storage: added Book1. Weight:1
+2022-05-13 16:58:44.887 Factory 3: Produced Book; id: Book33
+2022-05-13 16:58:44.887 Storage: taken Book1. Amount: 0
+2022-05-13 16:58:44.887 Storage: added Book1. Weight:1
+2022-05-13 16:58:44.887 Factory 1: Produced Book; id: Book13
+2022-05-13 16:58:44.888 Storage: added Book1. Weight:2
+2022-05-13 16:58:44.888 Factory 0: Produced Book; id: Book03
+2022-05-13 16:58:44.889 Storage: added Book1. Weight:3
+2022-05-13 16:58:44.889 Factory 4: Produced Book; id: Book43
+2022-05-13 16:58:44.889 Storage: added Book1. Weight:4
+2022-05-13 16:58:44.889 Factory 2: Produced Book; id: Book23
+2022-05-13 16:58:44.893 Storage: added Food3. Weight:1
+2022-05-13 16:58:44.893 Storage: taken Book1. Amount: 3
+2022-05-13 16:58:44.893 Factory 0: Produced Food; id: Food07
+2022-05-13 16:58:44.893 Storage: taken Food3. Amount: 0
+2022-05-13 16:58:44.899 Storage: taken Book1. Amount: 2
+2022-05-13 16:58:44.905 Storage: taken Book1. Amount: 1
+2022-05-13 16:58:44.911 Storage: taken Book1. Amount: 0
+2022-05-13 16:58:44.924 Storage: added Food3. Weight:1
+2022-05-13 16:58:44.924 Factory 0: Produced Food; id: Food08
+2022-05-13 16:58:44.924 Storage: taken Food3. Amount: 0
+2022-05-13 16:58:44.956 Storage: added Food3. Weight:1
+2022-05-13 16:58:44.956 Factory 0: Produced Food; id: Food09
+2022-05-13 16:58:44.956 Storage: taken Food3. Amount: 0
+2022-05-13 16:58:44.977 Storage: added Book1. Weight:1
+2022-05-13 16:58:44.977 Factory 3: Produced Book; id: Book34
+2022-05-13 16:58:44.977 Storage: taken Book1. Amount: 0
+2022-05-13 16:58:44.977 Storage: added Book1. Weight:1
+2022-05-13 16:58:44.977 Factory 1: Produced Book; id: Book14
+2022-05-13 16:58:44.977 Storage: added Book1. Weight:2
+2022-05-13 16:58:44.977 Factory 0: Produced Book; id: Book04
+2022-05-13 16:58:44.979 Storage: added Book1. Weight:3
+2022-05-13 16:58:44.979 Factory 2: Produced Book; id: Book24
+2022-05-13 16:58:44.979 Storage: added Book1. Weight:4
+2022-05-13 16:58:44.979 Factory 4: Produced Book; id: Book44
+2022-05-13 16:58:44.983 Storage: taken Book1. Amount: 3
+2022-05-13 16:58:44.988 Storage: added Food3. Weight:1
+2022-05-13 16:58:44.988 Factory 0: Produced Food; id: Food010
+2022-05-13 16:58:44.988 Storage: taken Food3. Amount: 0
+2022-05-13 16:58:44.990 Storage: taken Book1. Amount: 2
+2022-05-13 16:58:44.996 Storage: taken Book1. Amount: 1
+2022-05-13 16:58:45.002 Storage: taken Book1. Amount: 0
+2022-05-13 16:58:45.019 Storage: added Food3. Weight:1
+2022-05-13 16:58:45.019 Factory 0: Produced Food; id: Food011
+2022-05-13 16:58:45.019 Storage: taken Food3. Amount: 0
+2022-05-13 16:58:45.050 Storage: added Food3. Weight:1
+2022-05-13 16:58:45.050 Factory 0: Produced Food; id: Food012
+2022-05-13 16:58:45.050 Storage: taken Food3. Amount: 0
+2022-05-13 16:58:45.067 Storage: added Book1. Weight:1
+2022-05-13 16:58:45.067 Factory 3: Produced Book; id: Book35
+2022-05-13 16:58:45.067 Storage: taken Book1. Amount: 0
+2022-05-13 16:58:45.069 Storage: added Book1. Weight:1
+2022-05-13 16:58:45.069 Factory 4: Produced Book; id: Book45
+2022-05-13 16:58:45.069 Storage: added Book1. Weight:2
+2022-05-13 16:58:45.069 Factory 1: Produced Book; id: Book15
+2022-05-13 16:58:45.069 Storage: added Book1. Weight:3
+2022-05-13 16:58:45.069 Factory 2: Produced Book; id: Book25
+2022-05-13 16:58:45.069 Storage: added Book1. Weight:4
+2022-05-13 16:58:45.069 Factory 0: Produced Book; id: Book05
+2022-05-13 16:58:45.073 Storage: taken Book1. Amount: 3
+2022-05-13 16:58:45.079 Storage: taken Book1. Amount: 2
+2022-05-13 16:58:45.082 Storage: added Food3. Weight:1
+2022-05-13 16:58:45.082 Factory 0: Produced Food; id: Food013
+2022-05-13 16:58:45.082 Storage: taken Food3. Amount: 0
+2022-05-13 16:58:45.085 Storage: taken Book1. Amount: 1
+2022-05-13 16:58:45.091 Storage: taken Book1. Amount: 0
+2022-05-13 16:58:45.112 Storage: added Food3. Weight:1
+2022-05-13 16:58:45.112 Factory 0: Produced Food; id: Food014
+2022-05-13 16:58:45.112 Storage: taken Food3. Amount: 0
+2022-05-13 16:58:45.143 Storage: added Food3. Weight:1
+2022-05-13 16:58:45.143 Factory 0: Produced Food; id: Food015
+2022-05-13 16:58:45.143 Storage: taken Food3. Amount: 0
+2022-05-13 16:58:45.157 Storage: added Book1. Weight:1
+2022-05-13 16:58:45.157 Factory 3: Produced Book; id: Book36
+2022-05-13 16:58:45.157 Storage: taken Book1. Amount: 0
+2022-05-13 16:58:45.158 Storage: added Book1. Weight:1
+2022-05-13 16:58:45.158 Factory 4: Produced Book; id: Book46
+2022-05-13 16:58:45.160 Storage: added Book1. Weight:2
+2022-05-13 16:58:45.160 Factory 2: Produced Book; id: Book26
+2022-05-13 16:58:45.160 Storage: added Book1. Weight:3
+2022-05-13 16:58:45.160 Factory 0: Produced Book; id: Book06
+2022-05-13 16:58:45.160 Storage: added Book1. Weight:4
+2022-05-13 16:58:45.160 Factory 1: Produced Book; id: Book16
+2022-05-13 16:58:45.163 Storage: taken Book1. Amount: 3
+2022-05-13 16:58:45.169 Storage: taken Book1. Amount: 2
+2022-05-13 16:58:45.174 Storage: added Food3. Weight:1
+2022-05-13 16:58:45.174 Factory 0: Produced Food; id: Food016
+2022-05-13 16:58:45.174 Storage: taken Food3. Amount: 0
+2022-05-13 16:58:45.175 Storage: taken Book1. Amount: 1
+2022-05-13 16:58:45.180 Storage: taken Book1. Amount: 0
+2022-05-13 16:58:45.205 Storage: added Food3. Weight:1
+2022-05-13 16:58:45.205 Factory 0: Produced Food; id: Food017
+2022-05-13 16:58:45.205 Storage: taken Food3. Amount: 0
+2022-05-13 16:58:45.237 Storage: added Food3. Weight:1
+2022-05-13 16:58:45.237 Factory 0: Produced Food; id: Food018
+2022-05-13 16:58:45.237 Storage: taken Food3. Amount: 0
+2022-05-13 16:58:45.249 Storage: added Book1. Weight:1
+2022-05-13 16:58:45.249 Factory 4: Produced Book; id: Book47
+2022-05-13 16:58:45.249 Storage: taken Book1. Amount: 0
+2022-05-13 16:58:45.249 Storage: added Book1. Weight:1
+2022-05-13 16:58:45.249 Factory 3: Produced Book; id: Book37
+2022-05-13 16:58:45.250 Storage: added Book1. Weight:2
+2022-05-13 16:58:45.250 Factory 0: Produced Book; id: Book07
+2022-05-13 16:58:45.250 Storage: added Book1. Weight:3
+2022-05-13 16:58:45.250 Factory 2: Produced Book; id: Book27
+2022-05-13 16:58:45.250 Storage: added Book1. Weight:4
+2022-05-13 16:58:45.250 Factory 1: Produced Book; id: Book17
+2022-05-13 16:58:45.255 Storage: taken Book1. Amount: 3
+2022-05-13 16:58:45.261 Storage: taken Book1. Amount: 2
+2022-05-13 16:58:45.267 Storage: taken Book1. Amount: 1
+2022-05-13 16:58:45.269 Storage: added Food3. Weight:1
+2022-05-13 16:58:45.269 Factory 0: Produced Food; id: Food019
+2022-05-13 16:58:45.269 Storage: taken Food3. Amount: 0
+2022-05-13 16:58:45.273 Storage: taken Book1. Amount: 0
+2022-05-13 16:58:45.300 Storage: added Food3. Weight:1
+2022-05-13 16:58:45.300 Factory 0: Produced Food; id: Food020
+2022-05-13 16:58:45.300 Storage: taken Food3. Amount: 0
+2022-05-13 16:58:45.331 Storage: added Food3. Weight:1
+2022-05-13 16:58:45.331 Factory 0: Produced Food; id: Food021
+2022-05-13 16:58:45.331 Storage: taken Food3. Amount: 0
+2022-05-13 16:58:45.339 Storage: added Book1. Weight:1
+2022-05-13 16:58:45.339 Factory 3: Produced Book; id: Book38
+2022-05-13 16:58:45.339 Storage: taken Book1. Amount: 0
+2022-05-13 16:58:45.339 Storage: added Book1. Weight:1
+2022-05-13 16:58:45.339 Factory 4: Produced Book; id: Book48
+2022-05-13 16:58:45.340 Storage: added Book1. Weight:2
+2022-05-13 16:58:45.340 Factory 2: Produced Book; id: Book28
+2022-05-13 16:58:45.340 Storage: added Book1. Weight:3
+2022-05-13 16:58:45.340 Factory 0: Produced Book; id: Book08
+2022-05-13 16:58:45.340 Storage: added Book1. Weight:4
+2022-05-13 16:58:45.340 Factory 1: Produced Book; id: Book18
+2022-05-13 16:58:45.346 Storage: taken Book1. Amount: 3
+2022-05-13 16:58:45.352 Storage: taken Book1. Amount: 2
+2022-05-13 16:58:45.358 Storage: taken Book1. Amount: 1
+2022-05-13 16:58:45.361 Storage: added Food3. Weight:1
+2022-05-13 16:58:45.361 Factory 0: Produced Food; id: Food022
+2022-05-13 16:58:45.361 Storage: taken Food3. Amount: 0
+2022-05-13 16:58:45.364 Storage: taken Book1. Amount: 0
+2022-05-13 16:58:45.392 Storage: added Food3. Weight:1
+2022-05-13 16:58:45.392 Factory 0: Produced Food; id: Food023
+2022-05-13 16:58:45.392 Storage: taken Food3. Amount: 0
+2022-05-13 16:58:45.423 Storage: added Food3. Weight:1
+2022-05-13 16:58:45.423 Factory 0: Produced Food; id: Food024
+2022-05-13 16:58:45.423 Storage: taken Food3. Amount: 0
+2022-05-13 16:58:45.429 Storage: added Book1. Weight:1
+2022-05-13 16:58:45.429 Factory 2: Produced Book; id: Book29
+2022-05-13 16:58:45.429 Storage: taken Book1. Amount: 0
+2022-05-13 16:58:45.430 Storage: added Book1. Weight:1
+2022-05-13 16:58:45.430 Factory 3: Produced Book; id: Book39
+2022-05-13 16:58:45.430 Storage: added Book1. Weight:2
+2022-05-13 16:58:45.430 Factory 4: Produced Book; id: Book49
+2022-05-13 16:58:45.431 Storage: added Book1. Weight:3
+2022-05-13 16:58:45.431 Factory 1: Produced Book; id: Book19
+2022-05-13 16:58:45.431 Storage: added Book1. Weight:4
+2022-05-13 16:58:45.431 Factory 0: Produced Book; id: Book09
+2022-05-13 16:58:45.435 Storage: taken Book1. Amount: 3
+2022-05-13 16:58:45.441 Storage: taken Book1. Amount: 2
+2022-05-13 16:58:45.448 Storage: taken Book1. Amount: 1
+2022-05-13 16:58:45.454 Storage: taken Book1. Amount: 0
+2022-05-13 16:58:45.454 Storage: added Food3. Weight:1
+2022-05-13 16:58:45.454 Factory 0: Produced Food; id: Food025
+2022-05-13 16:58:45.454 Storage: taken Food3. Amount: 0
+2022-05-13 16:58:45.485 Storage: added Food3. Weight:1
+2022-05-13 16:58:45.485 Factory 0: Produced Food; id: Food026
+2022-05-13 16:58:45.485 Storage: taken Food3. Amount: 0
+2022-05-13 16:58:45.515 Storage: added Food3. Weight:1
+2022-05-13 16:58:45.515 Factory 0: Produced Food; id: Food027
+2022-05-13 16:58:45.515 Storage: taken Food3. Amount: 0
+2022-05-13 16:58:45.519 Storage: added Book1. Weight:1
+2022-05-13 16:58:45.519 Factory 2: Produced Book; id: Book210
+2022-05-13 16:58:45.519 Storage: taken Book1. Amount: 0
+2022-05-13 16:58:45.519 Storage: added Book1. Weight:1
+2022-05-13 16:58:45.519 Factory 4: Produced Book; id: Book410
+2022-05-13 16:58:45.519 Storage: added Book1. Weight:2
+2022-05-13 16:58:45.519 Factory 3: Produced Book; id: Book310
+2022-05-13 16:58:45.522 Storage: added Book1. Weight:3
+2022-05-13 16:58:45.522 Factory 1: Produced Book; id: Book110
+2022-05-13 16:58:45.522 Storage: added Book1. Weight:4
+2022-05-13 16:58:45.522 Factory 0: Produced Book; id: Book010
+2022-05-13 16:58:45.525 Storage: taken Book1. Amount: 3
+2022-05-13 16:58:45.531 Storage: taken Book1. Amount: 2
+2022-05-13 16:58:45.539 Storage: taken Book1. Amount: 1
+2022-05-13 16:58:45.546 Storage: taken Book1. Amount: 0
+2022-05-13 16:58:45.547 Storage: added Food3. Weight:1
+2022-05-13 16:58:45.547 Factory 0: Produced Food; id: Food028
+2022-05-13 16:58:45.547 Storage: taken Food3. Amount: 0
+2022-05-13 16:58:45.578 Storage: added Food3. Weight:1
+2022-05-13 16:58:45.578 Factory 0: Produced Food; id: Food029
+2022-05-13 16:58:45.578 Storage: taken Food3. Amount: 0
+2022-05-13 16:58:45.609 Storage: added Book1. Weight:1
+2022-05-13 16:58:45.609 Storage: added Food3. Weight:1
+2022-05-13 16:58:45.609 Factory 2: Produced Book; id: Book211
+2022-05-13 16:58:45.609 Storage: taken Food3. Amount: 0
+2022-05-13 16:58:45.609 Factory 0: Produced Food; id: Food030
+2022-05-13 16:58:45.609 Storage: taken Book1. Amount: 0
+2022-05-13 16:58:45.609 Storage: added Book1. Weight:1
+2022-05-13 16:58:45.609 Factory 4: Produced Book; id: Book411
+2022-05-13 16:58:45.609 Storage: added Book1. Weight:2
+2022-05-13 16:58:45.609 Factory 3: Produced Book; id: Book311
+2022-05-13 16:58:45.612 Storage: added Book1. Weight:3
+2022-05-13 16:58:45.612 Factory 0: Produced Book; id: Book011
+2022-05-13 16:58:45.612 Storage: added Book1. Weight:4
+2022-05-13 16:58:45.612 Factory 1: Produced Book; id: Book111
+2022-05-13 16:58:45.615 Storage: taken Book1. Amount: 3
+2022-05-13 16:58:45.621 Storage: taken Book1. Amount: 2
+2022-05-13 16:58:45.627 Storage: taken Book1. Amount: 1
+2022-05-13 16:58:45.633 Storage: taken Book1. Amount: 0
+2022-05-13 16:58:45.640 Storage: added Food3. Weight:1
+2022-05-13 16:58:45.640 Factory 0: Produced Food; id: Food031
+2022-05-13 16:58:45.640 Storage: taken Food3. Amount: 0
+2022-05-13 16:58:45.671 Storage: added Food3. Weight:1
+2022-05-13 16:58:45.671 Factory 0: Produced Food; id: Food032
+2022-05-13 16:58:45.671 Storage: taken Food3. Amount: 0
+2022-05-13 16:58:45.700 Storage: added Book1. Weight:1
+2022-05-13 16:58:45.700 Factory 2: Produced Book; id: Book212
+2022-05-13 16:58:45.700 Storage: taken Book1. Amount: 0
+2022-05-13 16:58:45.700 Storage: added Book1. Weight:1
+2022-05-13 16:58:45.700 Factory 3: Produced Book; id: Book312
+2022-05-13 16:58:45.700 Storage: added Book1. Weight:2
+2022-05-13 16:58:45.700 Factory 4: Produced Book; id: Book412
+2022-05-13 16:58:45.702 Storage: added Food3. Weight:1
+2022-05-13 16:58:45.702 Factory 0: Produced Food; id: Food033
+2022-05-13 16:58:45.702 Storage: taken Food3. Amount: 0
+2022-05-13 16:58:45.703 Storage: added Book1. Weight:3
+2022-05-13 16:58:45.703 Factory 1: Produced Book; id: Book112
+2022-05-13 16:58:45.703 Storage: added Book1. Weight:4
+2022-05-13 16:58:45.703 Factory 0: Produced Book; id: Book012
+2022-05-13 16:58:45.706 Storage: taken Book1. Amount: 3
+2022-05-13 16:58:45.711 Storage: taken Book1. Amount: 2
+2022-05-13 16:58:45.717 Storage: taken Book1. Amount: 1
+2022-05-13 16:58:45.722 Storage: taken Book1. Amount: 0
+2022-05-13 16:58:45.732 Storage: added Food3. Weight:1
+2022-05-13 16:58:45.732 Factory 0: Produced Food; id: Food034
+2022-05-13 16:58:45.732 Storage: taken Food3. Amount: 0
+2022-05-13 16:58:45.763 Storage: added Food3. Weight:1
+2022-05-13 16:58:45.763 Factory 0: Produced Food; id: Food035
+2022-05-13 16:58:45.763 Storage: taken Food3. Amount: 0
+2022-05-13 16:58:45.790 Storage: added Book1. Weight:1
+2022-05-13 16:58:45.790 Factory 2: Produced Book; id: Book213
+2022-05-13 16:58:45.790 Storage: taken Book1. Amount: 0
+2022-05-13 16:58:45.790 Storage: added Book1. Weight:1
+2022-05-13 16:58:45.790 Factory 3: Produced Book; id: Book313
+2022-05-13 16:58:45.790 Storage: added Book1. Weight:2
+2022-05-13 16:58:45.790 Factory 4: Produced Book; id: Book413
+2022-05-13 16:58:45.793 Storage: added Book1. Weight:3
+2022-05-13 16:58:45.793 Factory 1: Produced Book; id: Book113
+2022-05-13 16:58:45.793 Storage: added Book1. Weight:4
+2022-05-13 16:58:45.793 Factory 0: Produced Book; id: Book013
+2022-05-13 16:58:45.794 Storage: added Food3. Weight:1
+2022-05-13 16:58:45.794 Factory 0: Produced Food; id: Food036
+2022-05-13 16:58:45.794 Storage: taken Food3. Amount: 0
+2022-05-13 16:58:45.796 Storage: taken Book1. Amount: 3
+2022-05-13 16:58:45.801 Storage: taken Book1. Amount: 2
+2022-05-13 16:58:45.808 Storage: taken Book1. Amount: 1
+2022-05-13 16:58:45.814 Storage: taken Book1. Amount: 0
+2022-05-13 16:58:45.824 Storage: added Food3. Weight:1
+2022-05-13 16:58:45.824 Factory 0: Produced Food; id: Food037
+2022-05-13 16:58:45.824 Storage: taken Food3. Amount: 0
+2022-05-13 16:58:45.855 Storage: added Food3. Weight:1
+2022-05-13 16:58:45.855 Factory 0: Produced Food; id: Food038
+2022-05-13 16:58:45.855 Storage: taken Food3. Amount: 0
+2022-05-13 16:58:45.880 Storage: added Book1. Weight:1
+2022-05-13 16:58:45.880 Factory 2: Produced Book; id: Book214
+2022-05-13 16:58:45.880 Storage: taken Book1. Amount: 0
+2022-05-13 16:58:45.880 Storage: added Book1. Weight:1
+2022-05-13 16:58:45.880 Factory 3: Produced Book; id: Book314
+2022-05-13 16:58:45.880 Storage: added Book1. Weight:2
+2022-05-13 16:58:45.880 Factory 4: Produced Book; id: Book414
+2022-05-13 16:58:45.884 Storage: added Book1. Weight:3
+2022-05-13 16:58:45.884 Factory 0: Produced Book; id: Book014
+2022-05-13 16:58:45.884 Storage: added Book1. Weight:4
+2022-05-13 16:58:45.884 Factory 1: Produced Book; id: Book114
+2022-05-13 16:58:45.886 Storage: added Food3. Weight:1
+2022-05-13 16:58:45.886 Factory 0: Produced Food; id: Food039
+2022-05-13 16:58:45.886 Storage: taken Book1. Amount: 3
+2022-05-13 16:58:45.886 Storage: taken Food3. Amount: 0
+2022-05-13 16:58:45.892 Storage: taken Book1. Amount: 2
+2022-05-13 16:58:45.897 Storage: taken Book1. Amount: 1
+2022-05-13 16:58:45.903 Storage: taken Book1. Amount: 0
+2022-05-13 16:58:45.917 Storage: added Food3. Weight:1
+2022-05-13 16:58:45.917 Factory 0: Produced Food; id: Food040
+2022-05-13 16:58:45.917 Storage: taken Food3. Amount: 0
+2022-05-13 16:58:45.948 Storage: added Food3. Weight:1
+2022-05-13 16:58:45.948 Factory 0: Produced Food; id: Food041
+2022-05-13 16:58:45.948 Storage: taken Food3. Amount: 0
+2022-05-13 16:58:45.970 Storage: added Book1. Weight:1
+2022-05-13 16:58:45.970 Factory 2: Produced Book; id: Book215
+2022-05-13 16:58:45.970 Storage: taken Book1. Amount: 0
+2022-05-13 16:58:45.970 Storage: added Book1. Weight:1
+2022-05-13 16:58:45.970 Factory 3: Produced Book; id: Book315
+2022-05-13 16:58:45.970 Storage: added Book1. Weight:2
+2022-05-13 16:58:45.970 Factory 4: Produced Book; id: Book415
+2022-05-13 16:58:45.974 Storage: added Book1. Weight:3
+2022-05-13 16:58:45.974 Factory 0: Produced Book; id: Book015
+2022-05-13 16:58:45.974 Storage: added Book1. Weight:4
+2022-05-13 16:58:45.974 Factory 1: Produced Book; id: Book115
+2022-05-13 16:58:45.976 Storage: taken Book1. Amount: 3
+2022-05-13 16:58:45.979 Storage: added Food3. Weight:1
+2022-05-13 16:58:45.979 Factory 0: Produced Food; id: Food042
+2022-05-13 16:58:45.979 Storage: taken Food3. Amount: 0
+2022-05-13 16:58:45.981 Storage: taken Book1. Amount: 2
+2022-05-13 16:58:45.988 Storage: taken Book1. Amount: 1
+2022-05-13 16:58:45.995 Storage: taken Book1. Amount: 0
+2022-05-13 16:58:46.010 Storage: added Food3. Weight:1
+2022-05-13 16:58:46.010 Factory 0: Produced Food; id: Food043
+2022-05-13 16:58:46.010 Storage: taken Food3. Amount: 0
+2022-05-13 16:58:46.040 Storage: added Food3. Weight:1
+2022-05-13 16:58:46.040 Factory 0: Produced Food; id: Food044
+2022-05-13 16:58:46.040 Storage: taken Food3. Amount: 0
+2022-05-13 16:58:46.062 Storage: added Book1. Weight:1
+2022-05-13 16:58:46.062 Factory 2: Produced Book; id: Book216
+2022-05-13 16:58:46.062 Storage: taken Book1. Amount: 0
+2022-05-13 16:58:46.062 Storage: added Book1. Weight:1
+2022-05-13 16:58:46.062 Factory 4: Produced Book; id: Book416
+2022-05-13 16:58:46.062 Storage: added Book1. Weight:2
+2022-05-13 16:58:46.062 Factory 3: Produced Book; id: Book316
+2022-05-13 16:58:46.064 Storage: added Book1. Weight:3
+2022-05-13 16:58:46.064 Factory 1: Produced Book; id: Book116
+2022-05-13 16:58:46.064 Storage: added Book1. Weight:4
+2022-05-13 16:58:46.064 Factory 0: Produced Book; id: Book016
+2022-05-13 16:58:46.068 Storage: taken Book1. Amount: 3
+2022-05-13 16:58:46.071 Storage: added Food3. Weight:1
+2022-05-13 16:58:46.071 Factory 0: Produced Food; id: Food045
+2022-05-13 16:58:46.071 Storage: taken Food3. Amount: 0
+2022-05-13 16:58:46.074 Storage: taken Book1. Amount: 2
+2022-05-13 16:58:46.081 Storage: taken Book1. Amount: 1
+2022-05-13 16:58:46.087 Storage: taken Book1. Amount: 0
+2022-05-13 16:58:46.102 Storage: added Food3. Weight:1
+2022-05-13 16:58:46.102 Factory 0: Produced Food; id: Food046
+2022-05-13 16:58:46.102 Storage: taken Food3. Amount: 0
+2022-05-13 16:58:46.133 Storage: added Food3. Weight:1
+2022-05-13 16:58:46.133 Factory 0: Produced Food; id: Food047
+2022-05-13 16:58:46.133 Storage: taken Food3. Amount: 0
+2022-05-13 16:58:46.151 Storage: added Book1. Weight:1
+2022-05-13 16:58:46.151 Factory 2: Produced Book; id: Book217
+2022-05-13 16:58:46.151 Storage: taken Book1. Amount: 0
+2022-05-13 16:58:46.153 Storage: added Book1. Weight:1
+2022-05-13 16:58:46.153 Factory 4: Produced Book; id: Book417
+2022-05-13 16:58:46.153 Storage: added Book1. Weight:2
+2022-05-13 16:58:46.153 Factory 3: Produced Book; id: Book317
+2022-05-13 16:58:46.153 Storage: added Book1. Weight:3
+2022-05-13 16:58:46.153 Factory 1: Produced Book; id: Book117
+2022-05-13 16:58:46.155 Storage: added Book1. Weight:4
+2022-05-13 16:58:46.155 Factory 0: Produced Book; id: Book017
+2022-05-13 16:58:46.157 Storage: taken Book1. Amount: 3
+2022-05-13 16:58:46.163 Storage: taken Book1. Amount: 2
+2022-05-13 16:58:46.165 Storage: added Food3. Weight:1
+2022-05-13 16:58:46.165 Factory 0: Produced Food; id: Food048
+2022-05-13 16:58:46.165 Storage: taken Food3. Amount: 0
+2022-05-13 16:58:46.170 Storage: taken Book1. Amount: 1
+2022-05-13 16:58:46.176 Storage: taken Book1. Amount: 0
+2022-05-13 16:58:46.198 Storage: added Food3. Weight:1
+2022-05-13 16:58:46.198 Factory 0: Produced Food; id: Food049
+2022-05-13 16:58:46.198 Storage: taken Food3. Amount: 0
+2022-05-13 16:58:46.228 Storage: added Food3. Weight:1
+2022-05-13 16:58:46.228 Factory 0: Produced Food; id: Food050
+2022-05-13 16:58:46.228 Storage: taken Food3. Amount: 0
+2022-05-13 16:58:46.243 Storage: added Book1. Weight:1
+2022-05-13 16:58:46.243 Factory 2: Produced Book; id: Book218
+2022-05-13 16:58:46.243 Storage: taken Book1. Amount: 0
+2022-05-13 16:58:46.244 Storage: added Book1. Weight:1
+2022-05-13 16:58:46.244 Factory 4: Produced Book; id: Book418
+2022-05-13 16:58:46.244 Storage: added Book1. Weight:2
+2022-05-13 16:58:46.244 Factory 1: Produced Book; id: Book118
+2022-05-13 16:58:46.244 Storage: added Book1. Weight:3
+2022-05-13 16:58:46.244 Factory 3: Produced Book; id: Book318
+2022-05-13 16:58:46.247 Storage: added Book1. Weight:4
+2022-05-13 16:58:46.247 Factory 0: Produced Book; id: Book018
+2022-05-13 16:58:46.249 Storage: taken Book1. Amount: 3
+2022-05-13 16:58:46.255 Storage: taken Book1. Amount: 2
+2022-05-13 16:58:46.259 Storage: added Food3. Weight:1
+2022-05-13 16:58:46.259 Factory 0: Produced Food; id: Food051
+2022-05-13 16:58:46.259 Storage: taken Food3. Amount: 0
+2022-05-13 16:58:46.262 Storage: taken Book1. Amount: 1
+2022-05-13 16:58:46.268 Storage: taken Book1. Amount: 0
+2022-05-13 16:58:46.290 Storage: added Food3. Weight:1
+2022-05-13 16:58:46.290 Factory 0: Produced Food; id: Food052
+2022-05-13 16:58:46.290 Storage: taken Food3. Amount: 0
+2022-05-13 16:58:46.321 Storage: added Food3. Weight:1
+2022-05-13 16:58:46.321 Factory 0: Produced Food; id: Food053
+2022-05-13 16:58:46.321 Storage: taken Food3. Amount: 0
+2022-05-13 16:58:46.333 Storage: added Book1. Weight:1
+2022-05-13 16:58:46.333 Factory 4: Produced Book; id: Book419
+2022-05-13 16:58:46.333 Storage: taken Book1. Amount: 0
+2022-05-13 16:58:46.333 Storage: added Book1. Weight:1
+2022-05-13 16:58:46.333 Factory 2: Produced Book; id: Book219
+2022-05-13 16:58:46.333 Storage: added Book1. Weight:2
+2022-05-13 16:58:46.333 Factory 1: Produced Book; id: Book119
+2022-05-13 16:58:46.335 Storage: added Book1. Weight:3
+2022-05-13 16:58:46.335 Factory 3: Produced Book; id: Book319
+2022-05-13 16:58:46.338 Storage: added Book1. Weight:4
+2022-05-13 16:58:46.338 Factory 0: Produced Book; id: Book019
+2022-05-13 16:58:46.339 Storage: taken Book1. Amount: 3
+2022-05-13 16:58:46.346 Storage: taken Book1. Amount: 2
+2022-05-13 16:58:46.353 Storage: added Food3. Weight:1
+2022-05-13 16:58:46.353 Storage: taken Book1. Amount: 1
+2022-05-13 16:58:46.353 Factory 0: Produced Food; id: Food054
+2022-05-13 16:58:46.353 Storage: taken Food3. Amount: 0
+2022-05-13 16:58:46.360 Storage: taken Book1. Amount: 0
+2022-05-13 16:58:46.384 Storage: added Food3. Weight:1
+2022-05-13 16:58:46.384 Factory 0: Produced Food; id: Food055
+2022-05-13 16:58:46.384 Storage: taken Food3. Amount: 0
+2022-05-13 16:58:46.415 Storage: added Food3. Weight:1
+2022-05-13 16:58:46.415 Factory 0: Produced Food; id: Food056
+2022-05-13 16:58:46.415 Storage: taken Food3. Amount: 0
+2022-05-13 16:58:46.423 Storage: added Book1. Weight:1
+2022-05-13 16:58:46.423 Factory 2: Produced Book; id: Book220
+2022-05-13 16:58:46.423 Storage: taken Book1. Amount: 0
+2022-05-13 16:58:46.423 Storage: added Book1. Weight:1
+2022-05-13 16:58:46.423 Factory 4: Produced Book; id: Book420
+2022-05-13 16:58:46.423 Storage: added Book1. Weight:2
+2022-05-13 16:58:46.423 Factory 1: Produced Book; id: Book120
+2022-05-13 16:58:46.425 Storage: added Book1. Weight:3
+2022-05-13 16:58:46.425 Factory 3: Produced Book; id: Book320
+2022-05-13 16:58:46.428 Storage: added Book1. Weight:4
+2022-05-13 16:58:46.428 Factory 0: Produced Book; id: Book020
+2022-05-13 16:58:46.430 Storage: taken Book1. Amount: 3
+2022-05-13 16:58:46.436 Storage: taken Book1. Amount: 2
+2022-05-13 16:58:46.443 Storage: taken Book1. Amount: 1
+2022-05-13 16:58:46.445 Storage: added Food3. Weight:1
+2022-05-13 16:58:46.445 Factory 0: Produced Food; id: Food057
+2022-05-13 16:58:46.445 Storage: taken Food3. Amount: 0
+2022-05-13 16:58:46.449 Storage: taken Book1. Amount: 0
+2022-05-13 16:58:46.476 Storage: added Food3. Weight:1
+2022-05-13 16:58:46.476 Factory 0: Produced Food; id: Food058
+2022-05-13 16:58:46.476 Storage: taken Food3. Amount: 0
+2022-05-13 16:58:46.507 Storage: added Food3. Weight:1
+2022-05-13 16:58:46.507 Factory 0: Produced Food; id: Food059
+2022-05-13 16:58:46.507 Storage: taken Food3. Amount: 0
+2022-05-13 16:58:46.515 Storage: added Book1. Weight:1
+2022-05-13 16:58:46.515 Factory 1: Produced Book; id: Book121
+2022-05-13 16:58:46.515 Storage: taken Book1. Amount: 0
+2022-05-13 16:58:46.515 Storage: added Book1. Weight:1
+2022-05-13 16:58:46.515 Factory 4: Produced Book; id: Book421
+2022-05-13 16:58:46.515 Storage: added Book1. Weight:2
+2022-05-13 16:58:46.515 Factory 3: Produced Book; id: Book321
+2022-05-13 16:58:46.515 Storage: added Book1. Weight:3
+2022-05-13 16:58:46.515 Factory 2: Produced Book; id: Book221
+2022-05-13 16:58:46.518 Storage: added Book1. Weight:4
+2022-05-13 16:58:46.518 Factory 0: Produced Book; id: Book021
+2022-05-13 16:58:46.521 Storage: taken Book1. Amount: 3
+2022-05-13 16:58:46.527 Storage: taken Book1. Amount: 2
+2022-05-13 16:58:46.534 Storage: taken Book1. Amount: 1
+2022-05-13 16:58:46.537 Storage: added Food3. Weight:1
+2022-05-13 16:58:46.537 Factory 0: Produced Food; id: Food060
+2022-05-13 16:58:46.537 Storage: taken Food3. Amount: 0
+2022-05-13 16:58:46.540 Storage: taken Book1. Amount: 0
+2022-05-13 16:58:46.567 Storage: added Food3. Weight:1
+2022-05-13 16:58:46.567 Factory 0: Produced Food; id: Food061
+2022-05-13 16:58:46.567 Storage: taken Food3. Amount: 0
+2022-05-13 16:58:46.599 Storage: added Food3. Weight:1
+2022-05-13 16:58:46.599 Factory 0: Produced Food; id: Food062
+2022-05-13 16:58:46.599 Storage: taken Food3. Amount: 0
+2022-05-13 16:58:46.605 Storage: added Book1. Weight:1
+2022-05-13 16:58:46.605 Factory 2: Produced Book; id: Book222
+2022-05-13 16:58:46.605 Storage: taken Book1. Amount: 0
+2022-05-13 16:58:46.605 Storage: added Book1. Weight:1
+2022-05-13 16:58:46.605 Factory 1: Produced Book; id: Book122
+2022-05-13 16:58:46.605 Storage: added Book1. Weight:2
+2022-05-13 16:58:46.605 Factory 3: Produced Book; id: Book322
+2022-05-13 16:58:46.605 Storage: added Book1. Weight:3
+2022-05-13 16:58:46.605 Factory 4: Produced Book; id: Book422
+2022-05-13 16:58:46.607 Storage: added Book1. Weight:4
+2022-05-13 16:58:46.607 Factory 0: Produced Book; id: Book022
+2022-05-13 16:58:46.610 Storage: taken Book1. Amount: 3
+2022-05-13 16:58:46.617 Storage: taken Book1. Amount: 2
+2022-05-13 16:58:46.623 Storage: taken Book1. Amount: 1
+2022-05-13 16:58:46.628 Storage: taken Book1. Amount: 0
+2022-05-13 16:58:46.630 Storage: added Food3. Weight:1
+2022-05-13 16:58:46.630 Factory 0: Produced Food; id: Food063
+2022-05-13 16:58:46.630 Storage: taken Food3. Amount: 0
+2022-05-13 16:58:46.661 Storage: added Food3. Weight:1
+2022-05-13 16:58:46.661 Factory 0: Produced Food; id: Food064
+2022-05-13 16:58:46.661 Storage: taken Food3. Amount: 0
+2022-05-13 16:58:46.692 Storage: added Food3. Weight:1
+2022-05-13 16:58:46.692 Factory 0: Produced Food; id: Food065
+2022-05-13 16:58:46.692 Storage: taken Food3. Amount: 0
+2022-05-13 16:58:46.695 Storage: added Book1. Weight:1
+2022-05-13 16:58:46.695 Factory 2: Produced Book; id: Book223
+2022-05-13 16:58:46.695 Storage: taken Book1. Amount: 0
+2022-05-13 16:58:46.695 Storage: added Book1. Weight:1
+2022-05-13 16:58:46.695 Factory 1: Produced Book; id: Book123
+2022-05-13 16:58:46.695 Storage: added Book1. Weight:2
+2022-05-13 16:58:46.695 Factory 3: Produced Book; id: Book323
+2022-05-13 16:58:46.695 Storage: added Book1. Weight:3
+2022-05-13 16:58:46.695 Factory 4: Produced Book; id: Book423
+2022-05-13 16:58:46.697 Storage: added Book1. Weight:4
+2022-05-13 16:58:46.697 Factory 0: Produced Book; id: Book023
+2022-05-13 16:58:46.701 Storage: taken Book1. Amount: 3
+2022-05-13 16:58:46.707 Storage: taken Book1. Amount: 2
+2022-05-13 16:58:46.713 Storage: taken Book1. Amount: 1
+2022-05-13 16:58:46.716 Train What: entering
+2022-05-13 16:58:46.716 Railway: road from A to B is open. Current roads: 2
+2022-05-13 16:58:46.716 Train What: went to station B
+2022-05-13 16:58:46.716 Train What: station B docked
+2022-05-13 16:58:46.716 Storage: added Book2. Weight:1
+2022-05-13 16:58:46.719 Storage: taken Book1. Amount: 0
+2022-05-13 16:58:46.722 Storage: added Food3. Weight:1
+2022-05-13 16:58:46.722 Factory 0: Produced Food; id: Food066
+2022-05-13 16:58:46.722 Storage: taken Food3. Amount: 0
+2022-05-13 16:58:46.723 Train What: station B undocked
+2022-05-13 16:58:46.723 Train What is ready.
+2022-05-13 16:58:46.723 Train What: left to ride = 1
+2022-05-13 16:58:46.723 Train What: storage of Food is going to be taken.
+2022-05-13 16:58:46.723 Train What: station A docked
+2022-05-13 16:58:46.753 Storage: added Food3. Weight:1
+2022-05-13 16:58:46.753 Factory 0: Produced Food; id: Food067
+2022-05-13 16:58:46.753 Storage: taken Food3. Amount: 0
+2022-05-13 16:58:46.756 Train What: station A undocked
+2022-05-13 16:58:46.756 Railway: road from A to B is taken. Current roads: 1
+2022-05-13 16:58:46.756 Train What: leaving
+2022-05-13 16:58:46.783 Storage: added Food3. Weight:1
+2022-05-13 16:58:46.783 Factory 0: Produced Food; id: Food068
+2022-05-13 16:58:46.783 Storage: taken Food3. Amount: 0
+2022-05-13 16:58:46.784 Storage: added Book1. Weight:1
+2022-05-13 16:58:46.784 Factory 2: Produced Book; id: Book224
+2022-05-13 16:58:46.784 Storage: taken Book1. Amount: 0
+2022-05-13 16:58:46.784 Storage: added Book1. Weight:1
+2022-05-13 16:58:46.784 Factory 3: Produced Book; id: Book324
+2022-05-13 16:58:46.784 Storage: added Book1. Weight:2
+2022-05-13 16:58:46.784 Factory 1: Produced Book; id: Book124
+2022-05-13 16:58:46.786 Storage: added Book1. Weight:3
+2022-05-13 16:58:46.786 Factory 0: Produced Book; id: Book024
+2022-05-13 16:58:46.786 Storage: added Book1. Weight:4
+2022-05-13 16:58:46.786 Factory 4: Produced Book; id: Book424
+2022-05-13 16:58:46.791 Storage: taken Book1. Amount: 3
+2022-05-13 16:58:46.797 Storage: taken Book1. Amount: 2
+2022-05-13 16:58:46.803 Storage: taken Book1. Amount: 1
+2022-05-13 16:58:46.809 Storage: taken Book1. Amount: 0
+2022-05-13 16:58:46.813 Storage: added Food3. Weight:1
+2022-05-13 16:58:46.813 Factory 0: Produced Food; id: Food069
+2022-05-13 16:58:46.813 Storage: taken Food3. Amount: 0
+2022-05-13 16:58:46.844 Storage: added Food3. Weight:1
+2022-05-13 16:58:46.844 Factory 0: Produced Food; id: Food070
+2022-05-13 16:58:46.844 Storage: taken Food3. Amount: 0
+2022-05-13 16:58:46.874 Storage: added Book1. Weight:1
+2022-05-13 16:58:46.874 Factory 1: Produced Book; id: Book125
+2022-05-13 16:58:46.874 Storage: taken Book1. Amount: 0
+2022-05-13 16:58:46.874 Storage: added Book1. Weight:1
+2022-05-13 16:58:46.874 Factory 3: Produced Book; id: Book325
+2022-05-13 16:58:46.874 Storage: added Book1. Weight:2
+2022-05-13 16:58:46.874 Factory 2: Produced Book; id: Book225
+2022-05-13 16:58:46.875 Storage: added Food3. Weight:1
+2022-05-13 16:58:46.875 Factory 0: Produced Food; id: Food071
+2022-05-13 16:58:46.875 Storage: taken Food3. Amount: 0
+2022-05-13 16:58:46.876 Storage: added Book1. Weight:3
+2022-05-13 16:58:46.876 Factory 0: Produced Book; id: Book025
+2022-05-13 16:58:46.876 Storage: added Book1. Weight:4
+2022-05-13 16:58:46.876 Factory 4: Produced Book; id: Book425
+2022-05-13 16:58:46.880 Storage: taken Book1. Amount: 3
+2022-05-13 16:58:46.886 Storage: taken Book1. Amount: 2
+2022-05-13 16:58:46.894 Storage: taken Book1. Amount: 1
+2022-05-13 16:58:46.900 Storage: taken Book1. Amount: 0
+2022-05-13 16:58:46.905 Storage: added Food3. Weight:1
+2022-05-13 16:58:46.905 Factory 0: Produced Food; id: Food072
+2022-05-13 16:58:46.905 Storage: taken Food3. Amount: 0
+2022-05-13 16:58:46.936 Storage: added Food3. Weight:1
+2022-05-13 16:58:46.936 Factory 0: Produced Food; id: Food073
+2022-05-13 16:58:46.936 Storage: taken Food3. Amount: 0
+2022-05-13 16:58:46.963 Storage: added Book1. Weight:1
+2022-05-13 16:58:46.963 Factory 2: Produced Book; id: Book226
+2022-05-13 16:58:46.963 Storage: taken Book1. Amount: 0
+2022-05-13 16:58:46.963 Storage: added Book1. Weight:1
+2022-05-13 16:58:46.963 Factory 3: Produced Book; id: Book326
+2022-05-13 16:58:46.963 Storage: added Book1. Weight:2
+2022-05-13 16:58:46.963 Factory 1: Produced Book; id: Book126
+2022-05-13 16:58:46.965 Storage: added Book1. Weight:3
+2022-05-13 16:58:46.965 Factory 0: Produced Book; id: Book026
+2022-05-13 16:58:46.965 Storage: added Book1. Weight:4
+2022-05-13 16:58:46.965 Factory 4: Produced Book; id: Book426
+2022-05-13 16:58:46.966 Storage: added Food3. Weight:1
+2022-05-13 16:58:46.966 Factory 0: Produced Food; id: Food074
+2022-05-13 16:58:46.966 Storage: taken Food3. Amount: 0
+2022-05-13 16:58:46.970 Storage: taken Book1. Amount: 3
+2022-05-13 16:58:46.976 Storage: taken Book1. Amount: 2
+2022-05-13 16:58:46.981 Storage: taken Book1. Amount: 1
+2022-05-13 16:58:46.987 Storage: taken Book1. Amount: 0
+2022-05-13 16:58:46.997 Storage: added Food3. Weight:1
+2022-05-13 16:58:46.997 Factory 0: Produced Food; id: Food075
+2022-05-13 16:58:46.997 Storage: taken Food3. Amount: 0
+2022-05-13 16:58:47.028 Storage: added Food3. Weight:1
+2022-05-13 16:58:47.028 Factory 0: Produced Food; id: Food076
+2022-05-13 16:58:47.028 Storage: taken Food3. Amount: 0
+2022-05-13 16:58:47.054 Storage: added Book1. Weight:1
+2022-05-13 16:58:47.054 Factory 1: Produced Book; id: Book127
+2022-05-13 16:58:47.054 Storage: taken Book1. Amount: 0
+2022-05-13 16:58:47.054 Storage: added Book1. Weight:1
+2022-05-13 16:58:47.054 Factory 2: Produced Book; id: Book227
+2022-05-13 16:58:47.054 Storage: added Book1. Weight:2
+2022-05-13 16:58:47.054 Factory 3: Produced Book; id: Book327
+2022-05-13 16:58:47.057 Storage: added Book1. Weight:3
+2022-05-13 16:58:47.057 Factory 0: Produced Book; id: Book027
+2022-05-13 16:58:47.057 Storage: added Book1. Weight:4
+2022-05-13 16:58:47.057 Factory 4: Produced Book; id: Book427
+2022-05-13 16:58:47.059 Storage: added Food3. Weight:1
+2022-05-13 16:58:47.059 Factory 0: Produced Food; id: Food077
+2022-05-13 16:58:47.059 Storage: taken Food3. Amount: 0
+2022-05-13 16:58:47.060 Storage: taken Book1. Amount: 3
+2022-05-13 16:58:47.066 Storage: taken Book1. Amount: 2
+2022-05-13 16:58:47.073 Storage: taken Book1. Amount: 1
+2022-05-13 16:58:47.080 Storage: taken Book1. Amount: 0
+2022-05-13 16:58:47.089 Storage: added Food3. Weight:1
+2022-05-13 16:58:47.089 Factory 0: Produced Food; id: Food078
+2022-05-13 16:58:47.089 Storage: taken Food3. Amount: 0
+2022-05-13 16:58:47.120 Storage: added Food3. Weight:1
+2022-05-13 16:58:47.120 Factory 0: Produced Food; id: Food079
+2022-05-13 16:58:47.120 Storage: taken Food3. Amount: 0
+2022-05-13 16:58:47.144 Storage: added Book1. Weight:1
+2022-05-13 16:58:47.144 Factory 1: Produced Book; id: Book128
+2022-05-13 16:58:47.144 Storage: taken Book1. Amount: 0
+2022-05-13 16:58:47.144 Storage: added Book1. Weight:1
+2022-05-13 16:58:47.144 Factory 2: Produced Book; id: Book228
+2022-05-13 16:58:47.146 Storage: added Book1. Weight:2
+2022-05-13 16:58:47.146 Factory 3: Produced Book; id: Book328
+2022-05-13 16:58:47.148 Storage: added Book1. Weight:3
+2022-05-13 16:58:47.148 Factory 4: Produced Book; id: Book428
+2022-05-13 16:58:47.148 Storage: added Book1. Weight:4
+2022-05-13 16:58:47.148 Factory 0: Produced Book; id: Book028
+2022-05-13 16:58:47.151 Storage: taken Book1. Amount: 3
+2022-05-13 16:58:47.151 Storage: added Food3. Weight:1
+2022-05-13 16:58:47.151 Factory 0: Produced Food; id: Food080
+2022-05-13 16:58:47.151 Storage: taken Food3. Amount: 0
+2022-05-13 16:58:47.157 Storage: taken Book1. Amount: 2
+2022-05-13 16:58:47.163 Storage: taken Book1. Amount: 1
+2022-05-13 16:58:47.171 Storage: taken Book1. Amount: 0
+2022-05-13 16:58:47.182 Storage: added Food3. Weight:1
+2022-05-13 16:58:47.182 Factory 0: Produced Food; id: Food081
+2022-05-13 16:58:47.182 Storage: taken Food3. Amount: 0
+2022-05-13 16:58:47.213 Storage: added Food3. Weight:1
+2022-05-13 16:58:47.213 Factory 0: Produced Food; id: Food082
+2022-05-13 16:58:47.213 Storage: taken Food3. Amount: 0
+2022-05-13 16:58:47.233 Storage: added Book1. Weight:1
+2022-05-13 16:58:47.233 Factory 1: Produced Book; id: Book129
+2022-05-13 16:58:47.233 Storage: taken Book1. Amount: 0
+2022-05-13 16:58:47.233 Storage: added Book1. Weight:1
+2022-05-13 16:58:47.233 Factory 2: Produced Book; id: Book229
+2022-05-13 16:58:47.235 Storage: added Book1. Weight:2
+2022-05-13 16:58:47.235 Factory 3: Produced Book; id: Book329
+2022-05-13 16:58:47.238 Storage: added Book1. Weight:3
+2022-05-13 16:58:47.238 Factory 4: Produced Book; id: Book429
+2022-05-13 16:58:47.238 Storage: added Book1. Weight:4
+2022-05-13 16:58:47.238 Factory 0: Produced Book; id: Book029
+2022-05-13 16:58:47.239 Storage: taken Book1. Amount: 3
+2022-05-13 16:58:47.244 Storage: added Food3. Weight:1
+2022-05-13 16:58:47.244 Storage: taken Book1. Amount: 2
+2022-05-13 16:58:47.244 Factory 0: Produced Food; id: Food083
+2022-05-13 16:58:47.244 Storage: taken Food3. Amount: 0
+2022-05-13 16:58:47.251 Storage: taken Book1. Amount: 1
+2022-05-13 16:58:47.256 Storage: taken Book1. Amount: 0
+2022-05-13 16:58:47.275 Storage: added Food3. Weight:1
+2022-05-13 16:58:47.275 Factory 0: Produced Food; id: Food084
+2022-05-13 16:58:47.275 Storage: taken Food3. Amount: 0
+2022-05-13 16:58:47.305 Storage: added Food3. Weight:1
+2022-05-13 16:58:47.305 Factory 0: Produced Food; id: Food085
+2022-05-13 16:58:47.305 Storage: taken Food3. Amount: 0
+2022-05-13 16:58:47.323 Storage: added Book1. Weight:1
+2022-05-13 16:58:47.323 Factory 1: Produced Book; id: Book130
+2022-05-13 16:58:47.323 Storage: taken Book1. Amount: 0
+2022-05-13 16:58:47.323 Storage: added Book1. Weight:1
+2022-05-13 16:58:47.323 Factory 2: Produced Book; id: Book230
+2022-05-13 16:58:47.324 Storage: added Book1. Weight:2
+2022-05-13 16:58:47.324 Factory 3: Produced Book; id: Book330
+2022-05-13 16:58:47.328 Storage: added Book1. Weight:3
+2022-05-13 16:58:47.328 Factory 4: Produced Book; id: Book430
+2022-05-13 16:58:47.328 Storage: added Book1. Weight:4
+2022-05-13 16:58:47.328 Factory 0: Produced Book; id: Book030
+2022-05-13 16:58:47.329 Storage: taken Book1. Amount: 3
+2022-05-13 16:58:47.334 Storage: taken Book1. Amount: 2
+2022-05-13 16:58:47.336 Storage: added Food3. Weight:1
+2022-05-13 16:58:47.336 Factory 0: Produced Food; id: Food086
+2022-05-13 16:58:47.336 Storage: taken Food3. Amount: 0
+2022-05-13 16:58:47.340 Storage: taken Book1. Amount: 1
+2022-05-13 16:58:47.346 Storage: taken Book1. Amount: 0
+2022-05-13 16:58:47.366 Storage: added Food3. Weight:1
+2022-05-13 16:58:47.366 Factory 0: Produced Food; id: Food087
+2022-05-13 16:58:47.366 Storage: taken Food3. Amount: 0
+2022-05-13 16:58:47.397 Storage: added Food3. Weight:1
+2022-05-13 16:58:47.397 Factory 0: Produced Food; id: Food088
+2022-05-13 16:58:47.397 Storage: taken Food3. Amount: 0
+2022-05-13 16:58:47.414 Storage: added Book1. Weight:1
+2022-05-13 16:58:47.414 Factory 2: Produced Book; id: Book231
+2022-05-13 16:58:47.414 Storage: taken Book1. Amount: 0
+2022-05-13 16:58:47.414 Storage: added Book1. Weight:1
+2022-05-13 16:58:47.414 Factory 1: Produced Book; id: Book131
+2022-05-13 16:58:47.414 Storage: added Book1. Weight:2
+2022-05-13 16:58:47.414 Factory 3: Produced Book; id: Book331
+2022-05-13 16:58:47.417 Storage: added Book1. Weight:3
+2022-05-13 16:58:47.417 Factory 0: Produced Book; id: Book031
+2022-05-13 16:58:47.417 Storage: added Book1. Weight:4
+2022-05-13 16:58:47.417 Factory 4: Produced Book; id: Book431
+2022-05-13 16:58:47.421 Storage: taken Book1. Amount: 3
+2022-05-13 16:58:47.426 Storage: taken Book1. Amount: 2
+2022-05-13 16:58:47.427 Storage: added Food3. Weight:1
+2022-05-13 16:58:47.427 Factory 0: Produced Food; id: Food089
+2022-05-13 16:58:47.427 Storage: taken Food3. Amount: 0
+2022-05-13 16:58:47.433 Storage: taken Book1. Amount: 1
+2022-05-13 16:58:47.441 Storage: taken Book1. Amount: 0
+2022-05-13 16:58:47.458 Storage: added Food3. Weight:1
+2022-05-13 16:58:47.458 Factory 0: Produced Food; id: Food090
+2022-05-13 16:58:47.458 Storage: taken Food3. Amount: 0
+2022-05-13 16:58:47.489 Storage: added Food3. Weight:1
+2022-05-13 16:58:47.489 Factory 0: Produced Food; id: Food091
+2022-05-13 16:58:47.489 Storage: taken Food3. Amount: 0
+2022-05-13 16:58:47.504 Storage: added Book1. Weight:1
+2022-05-13 16:58:47.504 Factory 3: Produced Book; id: Book332
+2022-05-13 16:58:47.504 Storage: taken Book1. Amount: 0
+2022-05-13 16:58:47.504 Storage: added Book1. Weight:1
+2022-05-13 16:58:47.504 Factory 2: Produced Book; id: Book232
+2022-05-13 16:58:47.504 Storage: added Book1. Weight:2
+2022-05-13 16:58:47.504 Factory 1: Produced Book; id: Book132
+2022-05-13 16:58:47.507 Storage: added Book1. Weight:3
+2022-05-13 16:58:47.507 Factory 4: Produced Book; id: Book432
+2022-05-13 16:58:47.508 Storage: added Book1. Weight:4
+2022-05-13 16:58:47.508 Factory 0: Produced Book; id: Book032
+2022-05-13 16:58:47.510 Storage: taken Book1. Amount: 3
+2022-05-13 16:58:47.516 Storage: taken Book1. Amount: 2
+2022-05-13 16:58:47.519 Storage: added Food3. Weight:1
+2022-05-13 16:58:47.519 Factory 0: Produced Food; id: Food092
+2022-05-13 16:58:47.519 Storage: taken Food3. Amount: 0
+2022-05-13 16:58:47.522 Storage: taken Book1. Amount: 1
+2022-05-13 16:58:47.527 Storage: taken Book1. Amount: 0
+2022-05-13 16:58:47.550 Storage: added Food3. Weight:1
+2022-05-13 16:58:47.550 Factory 0: Produced Food; id: Food093
+2022-05-13 16:58:47.550 Storage: taken Food3. Amount: 0
+2022-05-13 16:58:47.580 Storage: added Food3. Weight:1
+2022-05-13 16:58:47.580 Factory 0: Produced Food; id: Food094
+2022-05-13 16:58:47.580 Storage: taken Food3. Amount: 0
+2022-05-13 16:58:47.595 Storage: added Book1. Weight:1
+2022-05-13 16:58:47.595 Factory 3: Produced Book; id: Book333
+2022-05-13 16:58:47.595 Storage: taken Book1. Amount: 0
+2022-05-13 16:58:47.595 Storage: added Book1. Weight:1
+2022-05-13 16:58:47.595 Factory 1: Produced Book; id: Book133
+2022-05-13 16:58:47.597 Storage: added Book1. Weight:2
+2022-05-13 16:58:47.597 Factory 2: Produced Book; id: Book233
+2022-05-13 16:58:47.598 Storage: added Book1. Weight:3
+2022-05-13 16:58:47.598 Factory 4: Produced Book; id: Book433
+2022-05-13 16:58:47.599 Storage: added Book1. Weight:4
+2022-05-13 16:58:47.599 Factory 0: Produced Book; id: Book033
+2022-05-13 16:58:47.600 Storage: taken Book1. Amount: 3
+2022-05-13 16:58:47.607 Storage: taken Book1. Amount: 2
+2022-05-13 16:58:47.611 Storage: added Food3. Weight:1
+2022-05-13 16:58:47.611 Factory 0: Produced Food; id: Food095
+2022-05-13 16:58:47.611 Storage: taken Food3. Amount: 0
+2022-05-13 16:58:47.612 Storage: taken Book1. Amount: 1
+2022-05-13 16:58:47.618 Storage: taken Book1. Amount: 0
+2022-05-13 16:58:47.643 Storage: added Food3. Weight:1
+2022-05-13 16:58:47.643 Factory 0: Produced Food; id: Food096
+2022-05-13 16:58:47.643 Storage: taken Food3. Amount: 0
+2022-05-13 16:58:47.673 Storage: added Food3. Weight:1
+2022-05-13 16:58:47.673 Factory 0: Produced Food; id: Food097
+2022-05-13 16:58:47.673 Storage: taken Food3. Amount: 0
+2022-05-13 16:58:47.684 Storage: added Book1. Weight:1
+2022-05-13 16:58:47.684 Factory 3: Produced Book; id: Book334
+2022-05-13 16:58:47.684 Storage: taken Book1. Amount: 0
+2022-05-13 16:58:47.684 Storage: added Book1. Weight:1
+2022-05-13 16:58:47.684 Factory 1: Produced Book; id: Book134
+2022-05-13 16:58:47.686 Storage: added Book1. Weight:2
+2022-05-13 16:58:47.686 Factory 2: Produced Book; id: Book234
+2022-05-13 16:58:47.689 Storage: added Book1. Weight:3
+2022-05-13 16:58:47.689 Factory 4: Produced Book; id: Book434
+2022-05-13 16:58:47.689 Storage: added Book1. Weight:4
+2022-05-13 16:58:47.689 Factory 0: Produced Book; id: Book034
+2022-05-13 16:58:47.690 Storage: taken Book1. Amount: 3
+2022-05-13 16:58:47.696 Storage: taken Book1. Amount: 2
+2022-05-13 16:58:47.703 Storage: taken Book1. Amount: 1
+2022-05-13 16:58:47.705 Storage: added Food3. Weight:1
+2022-05-13 16:58:47.705 Factory 0: Produced Food; id: Food098
+2022-05-13 16:58:47.705 Storage: taken Food3. Amount: 0
+2022-05-13 16:58:47.709 Storage: taken Book1. Amount: 0
+2022-05-13 16:58:47.735 Storage: added Food3. Weight:1
+2022-05-13 16:58:47.735 Factory 0: Produced Food; id: Food099
+2022-05-13 16:58:47.735 Storage: taken Food3. Amount: 0
+2022-05-13 16:58:47.765 Storage: added Food3. Weight:1
+2022-05-13 16:58:47.765 Factory 0: Produced Food; id: Food0100
+2022-05-13 16:58:47.765 Storage: taken Food3. Amount: 0
+2022-05-13 16:58:47.774 Storage: added Book1. Weight:1
+2022-05-13 16:58:47.774 Factory 3: Produced Book; id: Book335
+2022-05-13 16:58:47.774 Storage: taken Book1. Amount: 0
+2022-05-13 16:58:47.776 Storage: added Book1. Weight:1
+2022-05-13 16:58:47.776 Factory 2: Produced Book; id: Book235
+2022-05-13 16:58:47.776 Storage: added Book1. Weight:2
+2022-05-13 16:58:47.776 Factory 1: Produced Book; id: Book135
+2022-05-13 16:58:47.778 Storage: added Book1. Weight:3
+2022-05-13 16:58:47.778 Factory 0: Produced Book; id: Book035
+2022-05-13 16:58:47.778 Storage: added Book1. Weight:4
+2022-05-13 16:58:47.778 Factory 4: Produced Book; id: Book435
+2022-05-13 16:58:47.781 Storage: taken Book1. Amount: 3
+2022-05-13 16:58:47.786 Storage: taken Book1. Amount: 2
+2022-05-13 16:58:47.791 Storage: taken Book1. Amount: 1
+2022-05-13 16:58:47.796 Storage: added Food3. Weight:1
+2022-05-13 16:58:47.796 Storage: taken Book1. Amount: 0
+2022-05-13 16:58:47.796 Factory 0: Produced Food; id: Food0101
+2022-05-13 16:58:47.796 Storage: taken Food3. Amount: 0
+2022-05-13 16:58:47.828 Storage: added Food3. Weight:1
+2022-05-13 16:58:47.828 Factory 0: Produced Food; id: Food0102
+2022-05-13 16:58:47.828 Storage: taken Food3. Amount: 0
+2022-05-13 16:58:47.859 Storage: added Food3. Weight:1
+2022-05-13 16:58:47.859 Factory 0: Produced Food; id: Food0103
+2022-05-13 16:58:47.859 Storage: taken Food3. Amount: 0
+2022-05-13 16:58:47.865 Storage: added Book1. Weight:1
+2022-05-13 16:58:47.865 Factory 3: Produced Book; id: Book336
+2022-05-13 16:58:47.865 Storage: taken Book1. Amount: 0
+2022-05-13 16:58:47.867 Storage: added Book1. Weight:1
+2022-05-13 16:58:47.867 Factory 2: Produced Book; id: Book236
+2022-05-13 16:58:47.867 Storage: added Book1. Weight:2
+2022-05-13 16:58:47.867 Factory 1: Produced Book; id: Book136
+2022-05-13 16:58:47.868 Storage: added Book1. Weight:3
+2022-05-13 16:58:47.868 Factory 4: Produced Book; id: Book436
+2022-05-13 16:58:47.868 Storage: added Book1. Weight:4
+2022-05-13 16:58:47.868 Factory 0: Produced Book; id: Book036
+2022-05-13 16:58:47.871 Storage: taken Book1. Amount: 3
+2022-05-13 16:58:47.877 Storage: taken Book1. Amount: 2
+2022-05-13 16:58:47.882 Storage: taken Book1. Amount: 1
+2022-05-13 16:58:47.889 Storage: taken Book1. Amount: 0
+2022-05-13 16:58:47.889 Storage: added Food3. Weight:1
+2022-05-13 16:58:47.889 Factory 0: Produced Food; id: Food0104
+2022-05-13 16:58:47.889 Storage: taken Food3. Amount: 0
+2022-05-13 16:58:47.920 Storage: added Food3. Weight:1
+2022-05-13 16:58:47.920 Factory 0: Produced Food; id: Food0105
+2022-05-13 16:58:47.920 Storage: taken Food3. Amount: 0
+2022-05-13 16:58:47.950 Storage: added Food3. Weight:1
+2022-05-13 16:58:47.950 Factory 0: Produced Food; id: Food0106
+2022-05-13 16:58:47.951 Storage: taken Food3. Amount: 0
+2022-05-13 16:58:47.956 Storage: added Book1. Weight:1
+2022-05-13 16:58:47.956 Factory 3: Produced Book; id: Book337
+2022-05-13 16:58:47.956 Storage: taken Book1. Amount: 0
+2022-05-13 16:58:47.957 Storage: added Book1. Weight:1
+2022-05-13 16:58:47.957 Factory 4: Produced Book; id: Book437
+2022-05-13 16:58:47.958 Storage: added Book1. Weight:2
+2022-05-13 16:58:47.958 Factory 1: Produced Book; id: Book137
+2022-05-13 16:58:47.958 Storage: added Book1. Weight:3
+2022-05-13 16:58:47.958 Factory 2: Produced Book; id: Book237
+2022-05-13 16:58:47.959 Storage: added Book1. Weight:4
+2022-05-13 16:58:47.959 Factory 0: Produced Book; id: Book037
